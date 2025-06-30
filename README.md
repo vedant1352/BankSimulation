@@ -47,10 +47,10 @@ Contains the main method.
 
 Demonstrates basic operations: deposit, withdraw, and printing history.
 
-Sample Output
-
 
 AUTHOR:- vedant1352
+
+Sample Output
 
 ![Program Output](![Screenshot 2025-06-30 143528](https://github.com/user-attachments/assets/960cb98b-72d2-4edb-af2b-15ef169561ab)
 
